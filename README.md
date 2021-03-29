@@ -7,5 +7,8 @@ NIM     : 311910317
 
 MatKul  : Pemrograman Web
 
-1. ![image](https://user-images.githubusercontent.com/81542329/112781092-629d1580-9074-11eb-8b7e-83673d840786.png)
+![image](https://user-images.githubusercontent.com/81542329/112781178-85c7c500-9074-11eb-92ff-85b8b8f6ba14.png)
+
+
+![image](https://user-images.githubusercontent.com/81542329/112781578-4f3e7a00-9075-11eb-89c7-ccec5db7bcb1.png)
 
